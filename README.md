@@ -1,104 +1,95 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- Akhilesh Pratap Singh | GitHub Profile README -->
 
-<div align="center">
-  
-# 👋 Hey, I'm **Akhilesh Pratap Singh**  
-### 🚀 Software Developer • Data Engineering Enthusiast • MERN Stack • ML & OpenCV
-  
-🌱 Currently exploring **Machine Learning**, **AWS**, and **DevOps**  
-💡 Passionate about building products that solve real-world problems  
-📬 **Reach me at:** _akhileshpratapsingh0007@gmail.com_
-
----
-
-</div>
-
-<!-- ===================== ANIMATED BANNER ===================== -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00E7FF;">Akhilesh Pratap Singh</span></h1>
+<h3 align="center">Aspiring Software & Data Engineer | MERN Developer | ML & OpenCV Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Developer+by+Logic%2C+Engineer+by+Mind%2C+Creator+by+Heart.;Building+Scalable+Systems+%26+Clean+Architectures.;Machine+Learning+%7C+Data+Pipelines+%7C+Backend+Engineering.;Always+Learning.+Always+Improving." />
+  <a href="mailto:akhileshpratapsingh0007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/akhilesh-pratap-singh-3b9048296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/DreamerAkhilesh">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-# ⚙️ Tech Stack & Tools
+## 🚀 About Me
+
+- 🎓 Final-year B.Tech student at **IET Lucknow**  
+- 💻 Aspiring **Software / Backend / Data Engineer**  
+- 🌱 Currently learning **Machine Learning, DevOps & Cloud (AWS)**  
+- 🧠 Passionate about building scalable systems & real-world solutions  
+- 📸 Interested in **Computer Vision & Automation**  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,opencv,tensorflow&perline=8" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,tailwind,opencv,tensorflow,linux,git,github,docker,redis,postman)
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" 
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=DreamerAkhilesh&theme=tokyonight&hide_border=true" 
+  height="200"
+/>
 
 </div>
 
 ---
 
-# 🚀 Projects I'm Building
+## 🚧 Projects I'm Working On
 
 ### 🥛 **Smart Milk Delivery System**
-Subscription-based milk delivery with wallet automation & admin dashboard.  
-**Tech:** MERN • JWT • MongoDB • Cloud Integration  
-✨ *Optimized daily delivery workflow using balance-trigger logic.*
-
----
+A wallet-based subscription platform with admin dashboard, delivery automation, and user-level controls.
 
 ### ✋ **AI Hand Gesture Recognition**
-Real-time gesture → action model using deep learning & OpenCV.  
-**Tech:** TensorFlow • OpenCV • MediaPipe  
-✨ *High accuracy tracking with noise-resistant pre-processing.*
+Real-time gesture classifier using Python, OpenCV, CNNs & custom data pipelines.
 
----
-
-### 🧠 **Face Recognition Attendance**
-Automated attendance using facial embeddings & live camera feed.  
-**Tech:** Python • OpenCV • FaceNet  
-✨ *Built for classrooms & small organizations.*
-
----
-
-### 📊 **Data Engineering Mini Projects**
-ETL pipelines, data cleaning scripts, visualizations & micro-models.  
-**Tech:** Python • Pandas • Matplotlib • SQL  
-✨ *Focused on clean workflow automation.*
-
----
+### 📊 **ML & Data Engineering Micro-Projects**
+ETL pipelines, model training workflows, data cleaning, visualizations, and automation scripts.
 
 ### 🌐 **Prompt Feedback Web App**
-Role-based feedback platform with secure login & admin panel.  
-**Tech:** MERN • JWT • Bcrypt • REST APIs  
-✨ *Minimal, fast, clean UI.*
+MERN-based feedback and review system with role-based authentication.
+
+### 🔐 **Face Recognition Attendance System**
+Automates attendance using real-time video feed & facial recognition.
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=react&hide_border=true" height="170" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamerAkhilesh&theme=react&hide_border=true" height="200" />
-
-</div>
-
----
-
-# 🔗 Connect with Me
+## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akhilesh-pratap-singh-3b9048296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
-  </a>
   <a href="mailto:akhileshpratapsingh0007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/akhilesh-pratap-singh-3b9048296/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-
-### ✨ _“Consistency compounds. Code a little every day.”_  
-⭐ _Thanks for visiting my profile!_
-
-</div>
+<p align="center">
+  ⚡ <em>"Learning one step at a time and building scalable, real-world solutions."</em>
+</p>
