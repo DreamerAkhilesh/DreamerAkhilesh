@@ -2,12 +2,13 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Akhilesh Pratap Singh
-### 🚀 Software & Data Engineer | MERN Developer | ML & OpenCV Enthusiast
+# 👋 Hi, I'm Akhilesh Pratap Singh  
+### 🚀 Software Engineer | MERN Stack Developer | RAG & Backend Enthusiast
 
-🌱 Currently exploring **Machine Learning, AWS & DevOps**  
-💡 Passionate about building scalable, real-world solutions  
-📫 Reach me at: akhileshpratapsingh0007@gmail.com  
+📍 Lucknow, Uttar Pradesh, India  
+🎓 B.Tech CSE @ Institute of Engineering & Technology, Lucknow (CGPA: 9.5/10)  
+🌱 Currently focused on **Backend Engineering, Data Structures & AI-powered systems**  
+📫 Reach me at: **akhileshpratapsingh0007@gmail.com**
 
 </div>
 
@@ -16,35 +17,100 @@
 <!-- ===================== ANIMATED TYPING BANNER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Developer+by+Logic,+Engineer+by+Mind,+Creator+by+Heart.;Building+Scalable+Systems+%26+Clean+Architecture.;ML+%7C+Computer+Vision+%7C+Backend+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=850&lines=Backend+Developer+by+Logic.;MERN+Stack+%7C+Clean+Architecture.;RAG+%7C+Semantic+Search+%7C+System+Design" />
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+- Strong foundation in **Data Structures & Algorithms** with 1500+ problems solved  
+- Passionate about building **secure, scalable backend systems**  
+- Hands-on experience with **JWT Auth, RBAC, REST APIs, MongoDB**  
+- Actively working on **Retrieval-Augmented Generation (RAG)** & LLM-powered apps  
+- Competitive programmer with consistent platform rankings
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,tailwind,git,github,linux,opencv,tensorflow,docker,redis,postman" />
-</p>
+### 💻 Languages
+`C` `C++` `JavaScript (ES6+)` `Python` `SQL` `HTML5` `CSS3`
+
+### 🧩 Backend & APIs
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Role-Based Access Control`
+
+### 🎨 Frontend
+`React.js` `Redux Toolkit` `Tailwind CSS` `Vite` `Responsive UI`
+
+### 🗄️ Databases
+`MongoDB` `Mongoose` `FAISS (Vector DB)`
+
+### 🤖 AI / ML
+`Retrieval-Augmented Generation (RAG)`  
+`Semantic Search` `LLM Integration` `Prompt Engineering`
+
+### 🛠️ Tools & Platforms
+`Git` `GitHub` `Docker` `Linux (Basics)` `Streamlit`
+
+### 📚 Libraries
+`NumPy` `Pandas` `Matplotlib` `BeautifulSoup` `PyPDF2` `OpenCV (Basics)`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🥛 Smart Milk Delivery System
-Wallet-based subscription platform with admin dashboard, delivery automation, and user-level controls.
+### 🗂️ Task Manager (MERN)
+**Full-stack task management system with role-based access**
 
-### ✋ AI Hand Gesture Recognition
-Real-time gesture-to-action recognition using Python, OpenCV & deep learning.
+- Built using **React, Node.js, Express & MongoDB**
+- Implemented **JWT authentication** and **Admin/User RBAC**
+- Advanced features: task filtering, sorting, PDF attachments
+- Used **Redux Toolkit** for scalable state management
+- Fully responsive UI with **Tailwind CSS**
 
-### 🧠 Face Recognition Attendance System
-Automates attendance using facial recognition on live camera feed.
+---
 
-### 🌐 Prompt Feedback Web App
-Role-based feedback and review platform built with MERN stack.
+### 💻 The CodeBit – Online Coding Platform
+**Browser-based coding & execution environment**
 
-### 📊 ML & Data Engineering Micro-Projects
-ETL pipelines, data cleaning, model training, and visualizations.
+- Multi-language code execution: **C, C++, Python, JavaScript**
+- Integrated **ACE.js editor** with backend execution
+- Secure authentication & persistent code storage
+- Personalized user workspaces and saved projects
+
+---
+
+### 🧠 RAGnarok – Context-Aware RAG System
+**End-to-end Retrieval-Augmented Generation pipeline**
+
+- Implemented document ingestion, chunking & embeddings
+- Used **FAISS** for semantic similarity search
+- Integrated LLMs with **context injection**
+- Reduced hallucinations via prompt engineering
+- Designed for scalable knowledge-based Q&A systems
+
+---
+
+## 🏆 Achievements & Competitive Programming
+
+- ⭐ **Codeforces Specialist** (Max Rating: 1599)
+- ⭐ **CodeChef 4★** (Max Rating: 1824)
+- ⭐ **LeetCode Knight** (Max Rating: 1859)
+- Solved **1500+ DSA problems** across major platforms
+
+---
+
+## 🧑‍🏫 Positions of Responsibility
+
+### 🌐 Website Administrator – IET Lucknow
+- Maintained Placement Cell website with **99.9% uptime**
+- Optimized performance, reducing load time by **25%**
+- Performed bug fixes, security audits & caching improvements
+
+### 🎯 Head Coordinator – Training & Placement Cell
+- Coordinated recruitment drives with **40+ companies**
+- Organized **10+ workshops** impacting **500+ students**
 
 ---
 
@@ -52,23 +118,10 @@ ETL pipelines, data cleaning, model training, and visualizations.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical&hide_title=true&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 📊 GitHub / Coding Stats (Alternative Visuals)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Top%20Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Commits-2000+-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-1000+-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active%20Projects-5-orange?style=for-the-badge" />
-</p>
 
 ---
 
@@ -89,5 +142,5 @@ ETL pipelines, data cleaning, model training, and visualizations.
 ---
 
 <p align="center">
-⚡ <em>"Consistency compounds. Code a little every day."</em>
+⚡ <em>"Consistency compounds. Solve. Build. Repeat."</em>
 </p>
