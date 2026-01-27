@@ -2,132 +2,109 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Akhilesh Pratap Singh  
-### 🚀 Software Engineer | MERN Stack Developer | RAG & Backend Enthusiast
+# 👋 Hey, I'm Akhilesh Pratap Singh  
+### 🚀 Backend & Full-Stack Engineer | MERN | RAG | Open-Source Enthusiast
 
 📍 Lucknow, Uttar Pradesh, India  
-🎓 B.Tech CSE @ Institute of Engineering & Technology, Lucknow (CGPA: 9.5/10)  
-🌱 Currently focused on **Backend Engineering, Data Structures & AI-powered systems**  
-📫 Reach me at: **akhileshpratapsingh0007@gmail.com**
+🎓 B.Tech (CSE) @ Institute of Engineering & Technology, Lucknow  
+🌱 Building **scalable systems, intelligent APIs & semantic apps**  
+📫 Reach me: **akhileshpratapsingh0007@gmail.com**
 
 </div>
 
 ---
 
-<!-- ===================== ANIMATED TYPING BANNER ===================== -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=850&lines=Backend+Developer+by+Logic.;MERN+Stack+%7C+Clean+Architecture.;RAG+%7C+Semantic+Search+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Backend+Engineer+|+MERN+Stack+|+RAG+%7C+AI+Systems+|+Clean+Architecture" />
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- Strong foundation in **Data Structures & Algorithms** with 1500+ problems solved  
-- Passionate about building **secure, scalable backend systems**  
-- Hands-on experience with **JWT Auth, RBAC, REST APIs, MongoDB**  
-- Actively working on **Retrieval-Augmented Generation (RAG)** & LLM-powered apps  
-- Competitive programmer with consistent platform rankings
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
-`C` `C++` `JavaScript (ES6+)` `Python` `SQL` `HTML5` `CSS3`
-
-### 🧩 Backend & APIs
-`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Role-Based Access Control`
-
-### 🎨 Frontend
-`React.js` `Redux Toolkit` `Tailwind CSS` `Vite` `Responsive UI`
-
-### 🗄️ Databases
-`MongoDB` `Mongoose` `FAISS (Vector DB)`
-
-### 🤖 AI / ML
-`Retrieval-Augmented Generation (RAG)`  
-`Semantic Search` `LLM Integration` `Prompt Engineering`
-
-### 🛠️ Tools & Platforms
-`Git` `GitHub` `Docker` `Linux (Basics)` `Streamlit`
-
-### 📚 Libraries
-`NumPy` `Pandas` `Matplotlib` `BeautifulSoup` `PyPDF2` `OpenCV (Basics)`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,tailwind,git,github,linux,faiss,opencv,docker,sql,postman,vscode" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
-### 🗂️ Task Manager (MERN)
-**Full-stack task management system with role-based access**
+### ⭐ Intelligent Systems & AI
 
-- Built using **React, Node.js, Express & MongoDB**
-- Implemented **JWT authentication** and **Admin/User RBAC**
-- Advanced features: task filtering, sorting, PDF attachments
-- Used **Redux Toolkit** for scalable state management
-- Fully responsive UI with **Tailwind CSS**
+**🧠 RAGnarok** – *Context-Aware RAG Engine*  
+Semantic search + retrieval-augmented generation with vector search and LLM integration – reduces AI hallucinations and boosts context-awareness.
 
----
-
-### 💻 The CodeBit – Online Coding Platform
-**Browser-based coding & execution environment**
-
-- Multi-language code execution: **C, C++, Python, JavaScript**
-- Integrated **ACE.js editor** with backend execution
-- Secure authentication & persistent code storage
-- Personalized user workspaces and saved projects
+**📊 Social-Media-Sentiment-Analysis** (Python)  
+Extracts social insights using NLP & visualization.
 
 ---
 
-### 🧠 RAGnarok – Context-Aware RAG System
-**End-to-end Retrieval-Augmented Generation pipeline**
+### 💻 Full-Stack Web Apps (MERN)
 
-- Implemented document ingestion, chunking & embeddings
-- Used **FAISS** for semantic similarity search
-- Integrated LLMs with **context injection**
-- Reduced hallucinations via prompt engineering
-- Designed for scalable knowledge-based Q&A systems
+**🎓 LearnEdge** – *EdTech Marketplace*  
+Complete platform allowing instructors to publish courses and students to enroll, learn and track progress.
 
----
+**🗂️ Task-Manager** – *Productivity Suite*  
+Role-based task tracking with filtering, sorting, auth & responsive UI.
 
-## 🏆 Achievements & Competitive Programming
+**💻 CodeBit** – *Browser-based Coding Environment*  
+Execute code (JS, Python, C++) from the browser + persistent workspace.
 
-- ⭐ **Codeforces Specialist** (Max Rating: 1599)
-- ⭐ **CodeChef 4★** (Max Rating: 1824)
-- ⭐ **LeetCode Knight** (Max Rating: 1859)
-- Solved **1500+ DSA problems** across major platforms
+**🧩 BeMyMate** – *Full-Stack Social App*  
+Frontend + backend social experience with real-time UI and interactive features.
 
----
-
-## 🧑‍🏫 Positions of Responsibility
-
-### 🌐 Website Administrator – IET Lucknow
-- Maintained Placement Cell website with **99.9% uptime**
-- Optimized performance, reducing load time by **25%**
-- Performed bug fixes, security audits & caching improvements
-
-### 🎯 Head Coordinator – Training & Placement Cell
-- Coordinated recruitment drives with **40+ companies**
-- Organized **10+ workshops** impacting **500+ students**
+**📖 Story-Teller & Story-Teller-enhanced**  
+Engaging storytelling UI with enhanced interactions for users.
 
 ---
 
-## 📈 GitHub Stats
+### 🛍️ Real-World Product Engineering
+
+**🥛 Milk Delivery System (FrontEnd & BackEnd)**  
+Full subscription management, wallet integration, auto pause on insufficient balance, and dispatch tracking.
+
+**🚗 SlipLess-Parking**  
+Smart parking system to streamline vehicle movement & operator workflow.
+
+---
+
+### 🧪 Tools, Utilities & Other Cool Builds
+
+**📈 Finance Tracker (Python)** – Personal finance insights  
+**🎮 Hide-and-Seek-Game (Python)** – Interactive terminal game  
+**📂 Interview-Prep (TS)** – TypeScript repo for interview questions  
+**🕸️ NextInsurance-Scraper (Python)** – Data extraction from insurance listings  
+**🌐 Portfolio_site** – Personal static portfolio  
+**🧠 CodeSoft (C++)** – Foundation C++ project
+
+---
+
+## 🚀 Achievements & Rankings
+
+- ⭐ **Codeforces – Specialist**  
+- ⭐ **CodeChef – 4★ C++**  
+- ⭐ **LeetCode – Knight**  
+- Solved **1500+ problems** on DSA platforms  
+
+*(All competitive rankings are current)*
+
+---
+
+## 🧠 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical&hide_border=true)  
+![Akhilesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akhilesh-pratap-singh-3b9048296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -142,5 +119,5 @@
 ---
 
 <p align="center">
-⚡ <em>"Consistency compounds. Solve. Build. Repeat."</em>
+✨ <em>"Build fast, think deep, ship meaningful."</em>
 </p>
