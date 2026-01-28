@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,tailwind,git,github,linux,faiss,opencv,docker,sql,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,tailwind,git,github,linux,opencv,docker,mysql,postman,vscode" />
 </p>
 
 ---
