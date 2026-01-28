@@ -75,7 +75,7 @@ Smart parking system to streamline vehicle movement & operator workflow.
 **🎮 Hide-and-Seek-Game (Python)** – Interactive terminal game  
 **📂 Interview-Prep (TS)** – TypeScript repo for interview questions  
 **🕸️ NextInsurance-Scraper (Python)** – Data extraction from insurance listings  
-**🌐 Portfolio_site** – Personal static portfolio  
+**🌐 Portfolio_site** – Personal static portfolio (in progress)
 **🧠 CodeSoft (C++)** – Foundation C++ project
 
 ---
