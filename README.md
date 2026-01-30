@@ -95,8 +95,9 @@ Smart parking system to streamline vehicle movement & operator workflow.
 
 <div align="center">
 
-![Akhilesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=radical&hide_border=true)
+![Akhilesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamerAkhilesh&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerAkhilesh&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
