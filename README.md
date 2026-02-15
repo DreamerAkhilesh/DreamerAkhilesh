@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hey, Cute Little Developers, I'm Akhilesh Pratap Singh  
-### 🚀 Backend & Full-Stack Engineer | MERN | RAG | Open-Source Enthusiast
+### 🚀 Backend & Full-Stack Engineer | MERN | RAG
 
 📍 Lucknow, Uttar Pradesh, India  
 🎓 B.Tech (CSE) @ Institute of Engineering & Technology, Lucknow  
