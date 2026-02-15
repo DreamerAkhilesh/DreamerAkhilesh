@@ -100,9 +100,9 @@ Smart parking system to streamline vehicle movement & operator workflow.
   <a href="mailto:akhileshpratapsingh0007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/DreamerAkhilesh" target="_blank">
+  <!-- <a href="https://github.com/DreamerAkhilesh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> -->
 </p>
 
 ---
